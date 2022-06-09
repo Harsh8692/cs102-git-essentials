@@ -1,2 +1,0 @@
-HTML is a markup language.
-It is used for web development.
